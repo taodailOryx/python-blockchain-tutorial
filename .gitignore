@@ -1,4 +1,5 @@
-*.pyc
+.bc-venv
+.vscode
 *__pycache__*
+*.pyc
 *node_modules*
-blockchain-env/lib/python3.7
